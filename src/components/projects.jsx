@@ -9,7 +9,7 @@ function Projects() {
         "A college attendance management application for managing and tracking student attendance.",
       technologies: ["Python", "Flask", "PostgreSQL"],
       github: "#",
-      live: "https://clgattendance-0ova.onrender.com",
+      live: "https://clgattendance-0ova.onrender.com/",
     },
     {
       id: 2,
